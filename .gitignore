@@ -1,0 +1,15 @@
+# Compiled Object files
+*.o
+
+# Generated C and Header files
+lex.yy.c
+y.tab.c
+y.tab.h
+
+# Executables
+calc
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
